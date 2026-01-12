@@ -276,10 +276,15 @@ Ask:
 ________________________________________
 
 ## Key Takeaways Reinforced Through Practice
+
 •	C# 1.0 was deliberately conservative
+
 •	It established strong conceptual foundations
+
 •	Its “missing features” were acts of restraint
+
 •	Nearly every modern feature builds on these roots
+
 •	C# evolved — it did not pivot
 
 
